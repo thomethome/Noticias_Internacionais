@@ -24,10 +24,11 @@ jobs:
       - name: Rodar script de notícias
         run: python noticias.py
 
-      - name: Commitar e enviar atualizações
+            - name: Commitar e enviar atualizações
         run: |
-          git config --global user.name "GitHub Actions"
+          git config --global user.name "github-actions[bot]"
           git config --global user.email "actions@github.com"
           git add manchetes.txt
-          git commit -m "🚀 Atualização automática das notícias"
-          git push
+          git commit -m "🚀 Atualização automática das notícias" || echo "Nenhuma mudança para commit"
+          git pull --rebase
+          git push || echo "Nenhuma mudança para push"
