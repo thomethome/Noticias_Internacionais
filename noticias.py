@@ -47,11 +47,14 @@ def coletar_noticias():
             titulo = entrada.title
             link = entrada.link
             
-            # Filtrando manchetes relevantes com palavras-chave ambientais e sociais
+            print(f"🔹 Testando manchete: {titulo}")  # Debug para verificar a coleta
+
+            # **Filtragem de palavras-chave**
             if any(palavra.lower() in titulo.lower() for palavra in palavras_chave):
                 noticias.append(f"{titulo} - {link}")
 
     return noticias
+
 
 # Salvar manchetes no arquivo
 with open("manchetes.txt", "w", encoding="utf-8") as f:
