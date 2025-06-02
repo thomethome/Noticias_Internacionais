@@ -13,6 +13,20 @@
             <pubDate>Sun, 01 Jun 2025 21:27:00 GMT</pubDate>
         </item>
 
+        <item>
+            <title>Pesquisadores desenvolvem tecnologia para limpar oceanos</title>
+            <link>https://exemplo.com/noticia2</link>
+            <description>Nova inovação promete remover microplásticos dos mares.</description>
+            <pubDate>Sun, 01 Jun 2025 21:28:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Brasil investe em energia solar para comunidades rurais</title>
+            <link>https://exemplo.com/noticia3</link>
+            <description>Projeto leva sustentabilidade para áreas remotas.</description>
+            <pubDate>Sun, 01 Jun 2025 21:29:00 GMT</pubDate>
+        </item>
+
     </channel>
 </rss>
 
