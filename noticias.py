@@ -45,6 +45,7 @@ palavras_chave = [
 "alimentos sustentáveis", "agricultura regenerativa", "agroecologia"
 ]
 
+# Filtrando manchetes relevantes com palavras-chave ambientais
 if any(palavra.lower() in titulo.lower() for palavra in palavras_chave):
 noticias.append(f"{titulo} - {link}")
 
