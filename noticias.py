@@ -29,8 +29,22 @@ def coletar_noticias():
             titulo = entrada.title
             link = entrada.link
             
-            # Filtrando manchetes relevantes com palavras-chave ambientais
-            palavras_chave = ["sustentabilidade", "meio ambiente", "biodiversidade", "energia renovável", "conservação"]
+            # Filtrando manchetes com temas ambientais, climáticos e sociais
+palavras_chave = [
+    "sustentabilidade", "meio ambiente", "biodiversidade", "preservação", "conservação",
+    "reciclagem", "lixo", "catadores de lixo", "lixão", "resíduos sólidos",
+    "desmatamento", "reflorestamento", "impacto ambiental", "crise climática",
+    "poluição", "emissão de carbono", "aquecimento global", "mudanças climáticas",
+    "enchentes", "secas", "furacões", "deslizamentos", "tempestades", "queimadas",
+    "impacto ecológico", "biodiversidade ameaçada", "impacto social",
+    "energia renovável", "energia solar", "energia eólica", "hidrogênio verde",
+    "recursos hídricos", "qualidade da água", "tratamento de esgoto",
+    "transição energética", "fontes limpas", "eficiência energética",
+    "fome", "pobreza", "desigualdade", "saúde ambiental",
+    "ações humanitárias", "voluntariado", "comunidades vulneráveis",
+    "alimentos sustentáveis", "agricultura regenerativa", "agroecologia"
+]
+
             if any(palavra.lower() in titulo.lower() for palavra in palavras_chave):
                 noticias.append(f"{titulo} - {link}")
 
