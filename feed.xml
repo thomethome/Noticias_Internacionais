@@ -6,7 +6,7 @@
         <description>Últimas manchetes sobre sustentabilidade e meio ambiente.</description>
         <language>pt-BR</language>
 
-        <!-- Máximo de 20 manchetes -->
+        <!-- Máximo de 40 manchetes -->
         <item>
             <title>Novo estudo revela impacto do desmatamento na biodiversidade</title>
             <link>https://exemplo.com/noticia1</link>
@@ -28,7 +28,273 @@
             <pubDate>Sun, 01 Jun 2025 22:30:00 GMT</pubDate>
         </item>
 
-        <!-- Adicione novas notícias aqui -->
+        <item>
+    <title>Título da notícia</title>
+    <link>URL da notícia</link>
+    <description>Resumo da notícia</description>
+    <pubDate>Data e hora da publicação</pubDate>
+</item>
+
+        <item>
+    <title>Título da notícia</title>
+    <link>URL da notícia</link>
+    <description>Resumo da notícia</description>
+    <pubDate>Data e hora da publicação</pubDate>
+</item>
+
+        <item>
+    <title>Título da notícia</title>
+    <link>URL da notícia</link>
+    <description>Resumo da notícia</description>
+    <pubDate>Data e hora da publicação</pubDate>
+</item>
+
+        <item>
+    <title>Título da notícia</title>
+    <link>URL da notícia</link>
+    <description>Resumo da notícia</description>
+    <pubDate>Data e hora da publicação</pubDate>
+</item>
+
+        <item>
+    <title>Título da notícia</title>
+    <link>URL da notícia</link>
+    <description>Resumo da notícia</description>
+    <pubDate>Data e hora da publicação</pubDate>
+</item>
+
+        <item>
+    <title>Título da notícia</title>
+    <link>URL da notícia</link>
+    <description>Resumo da notícia</description>
+    <pubDate>Data e hora da publicação</pubDate>
+</item>
+
+        <item>
+    <title>Título da notícia</title>
+    <link>URL da notícia</link>
+    <description>Resumo da notícia</description>
+    <pubDate>Data e hora da publicação</pubDate>
+</item>
+
+        <item>
+    <title>Título da notícia</title>
+    <link>URL da notícia</link>
+    <description>Resumo da notícia</description>
+    <pubDate>Data e hora da publicação</pubDate>
+</item>
+
+        <item>
+    <title>Título da notícia</title>
+    <link>URL da notícia</link>
+    <description>Resumo da notícia</description>
+    <pubDate>Data e hora da publicação</pubDate>
+</item>
+
+        <item>
+    <title>Título da notícia</title>
+    <link>URL da notícia</link>
+    <description>Resumo da notícia</description>
+    <pubDate>Data e hora da publicação</pubDate>
+</item>
+
+        <item>
+    <title>Título da notícia</title>
+    <link>URL da notícia</link>
+    <description>Resumo da notícia</description>
+    <pubDate>Data e hora da publicação</pubDate>
+</item>
+
+        <item>
+    <title>Título da notícia</title>
+    <link>URL da notícia</link>
+    <description>Resumo da notícia</description>
+    <pubDate>Data e hora da publicação</pubDate>
+</item>
+
+        <item>
+    <title>Título da notícia</title>
+    <link>URL da notícia</link>
+    <description>Resumo da notícia</description>
+    <pubDate>Data e hora da publicação</pubDate>
+</item>
+
+        <item>
+    <title>Título da notícia</title>
+    <link>URL da notícia</link>
+    <description>Resumo da notícia</description>
+    <pubDate>Data e hora da publicação</pubDate>
+</item>
+
+        <item>
+    <title>Título da notícia</title>
+    <link>URL da notícia</link>
+    <description>Resumo da notícia</description>
+    <pubDate>Data e hora da publicação</pubDate>
+</item>
+
+        <item>
+    <title>Título da notícia</title>
+    <link>URL da notícia</link>
+    <description>Resumo da notícia</description>
+    <pubDate>Data e hora da publicação</pubDate>
+</item>
+
+        <item>
+    <title>Título da notícia</title>
+    <link>URL da notícia</link>
+    <description>Resumo da notícia</description>
+    <pubDate>Data e hora da publicação</pubDate>
+</item>
+
+        <item>
+    <title>Título da notícia</title>
+    <link>URL da notícia</link>
+    <description>Resumo da notícia</description>
+    <pubDate>Data e hora da publicação</pubDate>
+</item>
+
+        <item>
+    <title>Título da notícia</title>
+    <link>URL da notícia</link>
+    <description>Resumo da notícia</description>
+    <pubDate>Data e hora da publicação</pubDate>
+</item>
+
+        <item>
+    <title>Título da notícia</title>
+    <link>URL da notícia</link>
+    <description>Resumo da notícia</description>
+    <pubDate>Data e hora da publicação</pubDate>
+</item>
+
+        <item>
+    <title>Título da notícia</title>
+    <link>URL da notícia</link>
+    <description>Resumo da notícia</description>
+    <pubDate>Data e hora da publicação</pubDate>
+</item>
+
+        <item>
+    <title>Título da notícia</title>
+    <link>URL da notícia</link>
+    <description>Resumo da notícia</description>
+    <pubDate>Data e hora da publicação</pubDate>
+</item>
+
+        <item>
+    <title>Título da notícia</title>
+    <link>URL da notícia</link>
+    <description>Resumo da notícia</description>
+    <pubDate>Data e hora da publicação</pubDate>
+</item>
+
+        <item>
+    <title>Título da notícia</title>
+    <link>URL da notícia</link>
+    <description>Resumo da notícia</description>
+    <pubDate>Data e hora da publicação</pubDate>
+</item>
+
+        <item>
+    <title>Título da notícia</title>
+    <link>URL da notícia</link>
+    <description>Resumo da notícia</description>
+    <pubDate>Data e hora da publicação</pubDate>
+</item>
+
+        <item>
+    <title>Título da notícia</title>
+    <link>URL da notícia</link>
+    <description>Resumo da notícia</description>
+    <pubDate>Data e hora da publicação</pubDate>
+</item>
+
+        <item>
+    <title>Título da notícia</title>
+    <link>URL da notícia</link>
+    <description>Resumo da notícia</description>
+    <pubDate>Data e hora da publicação</pubDate>
+</item>
+
+        <item>
+    <title>Título da notícia</title>
+    <link>URL da notícia</link>
+    <description>Resumo da notícia</description>
+    <pubDate>Data e hora da publicação</pubDate>
+</item>
+
+        <item>
+    <title>Título da notícia</title>
+    <link>URL da notícia</link>
+    <description>Resumo da notícia</description>
+    <pubDate>Data e hora da publicação</pubDate>
+</item>
+
+        <item>
+    <title>Título da notícia</title>
+    <link>URL da notícia</link>
+    <description>Resumo da notícia</description>
+    <pubDate>Data e hora da publicação</pubDate>
+</item>
+
+        <item>
+    <title>Título da notícia</title>
+    <link>URL da notícia</link>
+    <description>Resumo da notícia</description>
+    <pubDate>Data e hora da publicação</pubDate>
+</item>
+
+        <item>
+    <title>Título da notícia</title>
+    <link>URL da notícia</link>
+    <description>Resumo da notícia</description>
+    <pubDate>Data e hora da publicação</pubDate>
+</item>
+
+        <item>
+    <title>Título da notícia</title>
+    <link>URL da notícia</link>
+    <description>Resumo da notícia</description>
+    <pubDate>Data e hora da publicação</pubDate>
+</item>
+
+        <item>
+    <title>Título da notícia</title>
+    <link>URL da notícia</link>
+    <description>Resumo da notícia</description>
+    <pubDate>Data e hora da publicação</pubDate>
+</item>
+
+        <item>
+    <title>Título da notícia</title>
+    <link>URL da notícia</link>
+    <description>Resumo da notícia</description>
+    <pubDate>Data e hora da publicação</pubDate>
+</item>
+
+        <item>
+    <title>Título da notícia</title>
+    <link>URL da notícia</link>
+    <description>Resumo da notícia</description>
+    <pubDate>Data e hora da publicação</pubDate>
+</item>
+
+        <item>
+    <title>Título da notícia</title>
+    <link>URL da notícia</link>
+    <description>Resumo da notícia</description>
+    <pubDate>Data e hora da publicação</pubDate>
+</item>
+
+        <item>
+    <title>Título da notícia</title>
+    <link>URL da notícia</link>
+    <description>Resumo da notícia</description>
+    <pubDate>Data e hora da publicação</pubDate>
+</item>
+
+                <!-- Adicione novas notícias aqui -->
         
     </channel>
 </rss>
